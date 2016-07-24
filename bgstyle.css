@@ -1,0 +1,27 @@
+/* line 1, C:/Users/Ravindra/Documents/GitHub/playing_with_background_spec/bgstyle.sass */
+* {
+  margin: 0;
+  box-sizing: border-box; }
+
+/* line 5, C:/Users/Ravindra/Documents/GitHub/playing_with_background_spec/bgstyle.sass */
+header {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(black 40%, #FFD6D6 65%, #000 0%); }
+  /* line 9, C:/Users/Ravindra/Documents/GitHub/playing_with_background_spec/bgstyle.sass */
+  header h1 {
+    color: white; }
+
+/* line 11, C:/Users/Ravindra/Documents/GitHub/playing_with_background_spec/bgstyle.sass */
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+/* line 16, C:/Users/Ravindra/Documents/GitHub/playing_with_background_spec/bgstyle.sass */
+section {
+  height: 100vh;
+  width: 100vw;
+  background-color: aqua; }
+
+/*# sourceMappingURL=bgstyle.css.map */

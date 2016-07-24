@@ -1,1 +1,2 @@
-# playing_with_background_spec
+# playing_with_gradient
+first page of image gradients.
